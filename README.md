@@ -18,26 +18,26 @@ The focus is not speed, automation, or “AI deciding strategy,” but **defensi
 ---
 
 ### Companion notebooks (Colab-ready)
-- **notebooks folder:**  
-  https://github.com/alexdibol/ai-consulting/tree/main/notebooks
+- **NOTEBOOKS folder:**  
+  https://github.com/alexdibol/ai-consulting/tree/main/NOTEBOOKS
 
 ---
 
 ### Direct Google Colab links
 - **Chapter 1 — Level 1 (Chatbots):**  
-  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/notebooks/ch01/chapter_1.ipynb
+  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/NOTEBOOKS/ch01/chapter_1.ipynb
 
 - **Chapter 2 — Level 2 (Reasoners):**  
-  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/notebooks/ch02/chapter_2.ipynb
+  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/NOTEBOOKS/ch02/chapter_2.ipynb
 
 - **Chapter 3 — Level 3 (Agents):**  
-  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/notebooks/ch03/chapter_3.ipynb
+  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/NOTEBOOKS/ch03/chapter_3.ipynb
 
 - **Chapter 4 — Level 4 (Innovators):**  
-  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/notebooks/ch04/chapter_4.ipynb
+  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/NOTEBOOKS/ch04/chapter_4.ipynb
 
 - **Chapter 5 — Level 5 (Organizations):**  
-  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/notebooks/ch05/chapter_5.ipynb
+  https://colab.research.google.com/github/alexdibol/ai-consulting/blob/main/NOTEBOOKS/ch05/chapter_5.ipynb
 
 ---
 
@@ -65,46 +65,6 @@ It introduces a five-level maturity ladder that progresses from individual produ
 - **Level 5 — Organizations:** an operating model covering intake classification, confidentiality controls, QA/review routing, change control for AI assets, recordkeeping/audit bundles, monitoring, and retrieval
 
 At every level, **facts are separated from assumptions**, and all outputs default to **“Not verified.”**
-
----
-
-## Independent pedagogical evaluation by OpenAI-ChatGPT (MBA / MFin)
-This book has **exceptionally high pedagogical value** for MBA and MFin students when the **author is also the instructor**, because it functions as a fully integrated teaching system rather than a standalone text.
-
-The five-level maturity ladder provides a clear managerial mental model: as AI capability increases, governance, controls, and accountability must increase in parallel. The companion Google Colab notebooks reinforce this by requiring students to produce review-ready artifacts—run manifests, prompt logs, risk registers, and draft deliverables—shifting learning away from “AI outputs” toward **defensible consulting process design**.
-
-The recurring mini-cases allow students to revisit the same strategy problems with increasing rigor, creating a strong spiral curriculum in hypothesis discipline, assumption management, stakeholder communication, and operating-model design. Because the instructor authored the framework, expectations, grading criteria, and professional discipline can be enforced consistently, reducing ambiguity and superficial AI use.
-
-Overall, the book excels at teaching **how teams should govern AI for high-stakes strategic work**, not merely how to use it.
-
-**Rating: ★★★★★ (5/5)**
-
----
-
-## What makes this governance-first (and why that matters in consulting)
-The focus is professional defensibility and review readiness. Each chapter emphasizes controls that make AI-assisted work safer to review and harder to misuse:
-
-- Explicit separation of **generation vs. verification**
-- Clear labeling of **facts provided, assumptions, open items, risks, and dependencies**
-- No fabricated benchmarks, market facts, customer claims, competitor details, or authoritative citations
-- Governance-native artifacts: run manifests, prompt logs, risk logs, versioned deliverables, and reviewer sign-offs
-- Human ownership required for any client-facing or decision-relevant output
-- Recordkeeping discipline: preserve prompts and outputs when used for client deliverables or internal executive decision support
-- Confidentiality discipline: default to redaction and “minimum necessary” inputs; follow client and firm policy on tool usage
-
-These controls align with real consulting QA expectations and corporate governance realities.
-
----
-
-## Recurring mini-cases used across all chapters
-Each level is demonstrated using the same recurring case types:
-
-- **Market entry and growth strategy**
-- **Cost transformation and productivity**
-- **Capital allocation and portfolio strategy**
-- **Operating model redesign and execution governance**
-
-Each chapter concludes with a **minimum standard checklist** that can be adopted directly in practice.
 
 ---
 
